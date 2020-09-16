@@ -1,0 +1,26 @@
+wireframing - draw a rough sketch of what u are actually going to build
+
+Functionality
+* signIn 
+* signUp
+* create channel
+* Send message in a channel
+* Join a channel
+*  Search for a channel
+
+3. Data 
+* Users
+* channel
+* Messages
+* 
+UI - React
+-> component
+    left navigation / side bar 
+        List of channel
+        list of direct messages 
+    MainContaner 
+        Header 
+        Messages
+        CreateMessageComponent
+    SignIn/Signup form 
+    
